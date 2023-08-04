@@ -8,5 +8,11 @@ Instasmash - Repo : @instasmashrepo
 Instasmash - Chat : @instasmash
 
 Donations : https://www.buymeacoffee.com/instasmashmod
+
+
+
+
 For Experimental Settings Go to View Code and Then  Go to Devloper settings File There you will find all addded settings.
+
+
 This Project is Relasing In 2024
