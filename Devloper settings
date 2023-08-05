@@ -1,3 +1,69 @@
+Instagram Base : 296.0.0.0.21
+Version : Instasmash v0.1
+Type : Alpha
+
+Experiment Settings Changelog :
+Ads
+"ctwa default billing wizard amount ig global"
+"stories scroll perf regression test"
+
+Growth
+"ig4a caa login home caching test"
+"creators in reels"
+
+Cross Meta Experiences
+"ig4a ig to fb reels emoji slider sticker ccp"
+
+Video
+"direct video capture audio encoding"
+
+Content Appreciation
+"gifting bottom sheet v2"
+
+Clips
+"reels gallery video sticker"
+
+Business
+"reels guidance"
+
+Feed
+"rifu video perf"
+
+Creation
+"template sticker"
+
+Other
+"audio reels trends report expansion"
+"igds prism launcher config android"
+
+Camera
+"android device segmentation holdout"
+"camera android reels audio filters"
+"camera android reels gallery zoom"
+
+Direct
+"igd android notifications consolidation"
+"direct message level debug"
+"video player logger"
+
+Trust
+"link warnings v2"
+"p92 about this profile"
+
+Creation
+"pending media sharedpreference"
+
+Threads App
+"p92 android action menu config"
+"p92 voice posts"
+
+Branded Content
+"p92 content android config"
+
+
+
+
+
 Experiment Settings Changelog :
 Company Account Access
 "caa future 3 native fdid ig gating"
