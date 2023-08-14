@@ -1,3 +1,59 @@
+Instagram Base : 297.0.0.0.37
+
+Experiment Settings Changelog :
+Infra
+"ig4a 23h1 pending mediastore disk logging anr"
+
+Feed
+"avatars in comments"
+"ttnc h2 2023"
+"viewpoint tli"
+"eof at top of feed"
+
+Wellbeing
+"channel takedown"
+
+Creation
+"feed publish screen redesign"
+
+Profile
+"multi format camera from profile"
+"client exp one endpoint per field"
+
+Direct
+"notes overflow option"
+"direct debug tools"
+"log story cache look up"
+"igd lss improvements"
+"igd raven default view mode"
+"mc launcher msys tam"
+"platform trace session based config v2"
+
+Camera
+"permission fixes"
+"camera android add audio duration fix"
+"camera android prevent multiple gallery loads"
+"camera android reels gallery grid span"
+"camera unify sticker browser read path"
+
+RTC
+"rtc rsys end call feedback"
+
+Clips
+"spotify partnership"
+
+Business
+"boost 2023 h2 aco disclaimer update"
+
+Ads
+"green cta for ctwa on reels"
+
+Growth
+"growth marketing activation hub"
+
+Threads App
+"p92 app review"
+"p92 pagination distance"
 Instagram Base : 296.0.0.0.101
 Version : Instasmash v0.3
 Experiment Settings Changelog :
