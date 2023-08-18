@@ -1,4 +1,137 @@
-297.0.0.0.96
+298.0.0.0.2
+Added
+
+• ctwa ig h22023 launch
+• ig android feed ad pod launcher
+• ig android feed content control unified
+• ig ads profile and browse
+• ig android clips duplicate drafts
+
+-----------------------------------
+Updated
+
+• ig direct ai agents
+    - show feedback buttons in cell
+    - max feedback qp count
+    - client streaming keep top in viewport
+• ig android reels delivery launcher
+    - enable tbi
+• ig android preserve activity on back
+    - hot start early fetch duration threshold
+    - enable main activity warmstart prep
+• ig android reels swipe to action
+    - enable leadgen destination
+    - enable icon nudge
+    - enable dark nudge background
+• ig android comments craft h2 2023
+    - disable show keyboard on feed
+    - enable show keyboard for reels
+• ig android direct infra
+    - notif fetch message limit
+• ig creator connections share to stories
+    - is comment share commenter notice enabled
+• ig expandable profile pics
+    - is enabled eu
+• ig broadcast channel fbidv2
+    - ios animate reaction count
+    - is activity feed v2 enabled
+• ig android ampersand
+    - group invites enabled
+
+-----------------------------------
+Removed
+
+• ig vc rsys overlayconfig h26xpacketizerconfig
+• ig camera android one camera share sheet
+• ig android dup clips draft
+• ig share sheet cover photo edit overlay android
+297.0.0.4.109
+Added
+
+• ig android pending media store clean up fix v2
+• ig automatelogging config
+
+-----------------------------------
+Updated
+
+• android igd search h2 2023
+    - enable igd search inform module
+• ig android reels sponsored label placement
+    - force hide social context
+• ig superlatives pog
+    - is enabled share button
+• ig android upload with coroutine
+    - skip cover photo during ou
+    - limit uploads with semaphore
+    - await configure
+• ig android channels inbox discovery
+    - show hide from tab actions enabled
+    - expose channels tab enabled for ranking universe
+• ig reels profile performance
+    - disable preview items
+• ig vc rsys overlayconfig audioreceivesidebweconfig
+    - disable on sfu
+• ig direct receiver fetch public test
+    - enable batch requests
+    - batch request count
+• ig android clips midcard fetch race condition fix
+    - enable manual check
+• ig android ttnc h2 2023
+    - enable parallel cache loading
+• igd armadillo media
+    - enable transcode preview from full
+• ig direct debug tools
+    - thread level debug enable
+
+-----------------------------------
+Removed
+
+• ig reels android prefilled backbutton draft
+• ig android pending media store clean up fix
+
+297.0.0.4.109
+Added
+
+• ig android pending media store clean up fix v2
+• ig automatelogging config
+
+-----------------------------------
+Updated
+
+• android igd search h2 2023
+    - enable igd search inform module
+• ig android reels sponsored label placement
+    - force hide social context
+• ig superlatives pog
+    - is enabled share button
+• ig android upload with coroutine
+    - skip cover photo during ou
+    - limit uploads with semaphore
+    - await configure
+• ig android channels inbox discovery
+    - show hide from tab actions enabled
+    - expose channels tab enabled for ranking universe
+• ig reels profile performance
+    - disable preview items
+• ig vc rsys overlayconfig audioreceivesidebweconfig
+    - disable on sfu
+• ig direct receiver fetch public test
+    - enable batch requests
+    - batch request count
+• ig android clips midcard fetch race condition fix
+    - enable manual check
+• ig android ttnc h2 2023
+    - enable parallel cache loading
+• igd armadillo media
+    - enable transcode preview from full
+• ig direct debug tools
+    - thread level debug enable
+
+-----------------------------------
+Removed
+
+• ig reels android prefilled backbutton draft
+• ig android pending media store clean up fix297.0.0.0.96
 Added
 
 • ig android motion photo for boomerang
