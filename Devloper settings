@@ -1,3 +1,109 @@
+297.0.0.0.96
+Added
+
+• ig android motion photo for boomerang
+• ig android delivery reset to feed
+• ig android feed prefetch
+
+-----------------------------------
+Updated
+
+• igd instamadillo dm media android
+    - thread gallery enabled
+• ig android push notif to thread view improvements
+    - avoid main activity v6
+• ig android bg prefetch finish work on retry
+    - disable thread switch
+• ig vc rsys overlayconfig rdostransportconfig
+    - delay turn allocation
+• ig unified upload mos client side mc
+    - enable uumos cs direct
+
+-----------------------------------
+Removed
+
+• threads android webp upload• ig reels android sticker anything
+    - is photo only enabled
+• ig clips android template client infra launcher
+    - should write sticker info
+• ig android stories cta stickers
+    - exclude auto gen showreel card
+    - is toolbar fallback enabled
+    - is existing cta button fallback enabled
+    - smart position fallback variant
+• ig stories sticker tray redesign
+    - is ig sans font enabled
+• ig android music notes
+    - improved unavailable experience enabled
+• ig vc rsys overlayconfig berylaecconfig
+    - aec armv7 enabled
+    - enable gated changes
+• ig broadcast channel fbidv2
+    - enable send silently
+• ig android ampersand
+    - main tab null state enabled
+    - main tab add yours cta
+• ig camera android tp media
+    - enable add clip fork
+• ig intent aware ads hscroll
+    - multi ads landscape ad padding threshold
+    - multi ads should use landscape padding
+• ig vc rsys overlayconfig gccnetworkcontrollerconfig
+    - skip null bitrate constraints
+• ig vc rsys overlayconfig audiosendsidebweconfig
+    - reset twcc on first video packet
+• android memory timeline and memory red v2
+    - include raw render thread metrics
+• ig android mobile network stack
+    - quic initial rtt
+    - enable mns
+    - persistent dns cache enabled
+    - preconnect to hosts
+    - max retries
+    - quic ack thresh
+    - tcp fallback mode
+    - use mns async http service layer
+    - use async http service layer
+    - use mobile network stack service layer
+    - tcp fallback quic backoff interval ms
+    - tcp fallback keep quic conn on probe reponse
+    - tcp fallback keep quic conn on probe response
+    - keep quic connection on probe response
+    - fallback to tcp only on idle timeout
+    - try next dns answer if failed to connect
+    - buffer response body
+    - buffer response body on event loop
+    - buffer response body in event loop
+    - tcp fallback quic backoff ms
+    - only enable static requests
+    - initialize mns without use
+    - tls13 socket session resumption
+    - close tcp probe connection
+    - use system tcp fallback
+    - http2 flow control window size
+    - qpl enabled
+    - use quic v1
+    - tcp try next dns answer if failed to connect
+    - use thread safe api
+    - http3 priority update enabled for liger
+    - retry 408 responses
+    - no tcp fallback on failure
+    - framework restart debug value
+    - failure reasons to trigger tcp fallback
+    - http request low sample rate qpl enabled
+    - mns http request qpl enabled
+    - qpl sampling rate override
+    - liger quic version str
+    - use ai addrconfig
+    - liger quic is enabled
+    - liger send early data
+    - liger enable socket err callback
+    - tigon extended upload callbacks enabled
+    - tigon enabled
+    - tigon retry enabled
+    - tigon logging enabled
+    - tigon redirect enabled
+
 Instagram Base : 297.0.0.0.37
 
 Experiment Settings Changelog :
