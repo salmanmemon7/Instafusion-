@@ -1,3 +1,101 @@
+289.0.0.0.37
+Added
+
+• ig android clips viewer creator voice
+• ig bloks android visibility extension
+
+-----------------------------------
+Updated
+
+• ig android 2022 h1 modernization usl migration set 2
+    - instagram ad viewability usl enabled
+
+-----------------------------------
+Removed
+
+• ig camera android reels remove text bubble styling
+• ig camera android clips timeline split
+• ig camera android creative tool platform
+
+289.0.0.0.44
+Added
+
+• ig android ar ads age gating config
+• ig camera android music hub in st
+• ig bullying android hide similar comments launcher
+• ig stories ai stickers
+• ig android feed pending media perf
+• ig android casd bl location business user info launcher
+• ig camera android photo frontcamera flash on
+• ig subscriptions android parity
+• ig story tap back ratio ls
+
+-----------------------------------
+Updated
+
+• ig disable reel chaining from stories
+    - header affordance enabled
+• ig vc rsys overlayconfig videoencoderselectorconfig
+    - threshold hysteresis pct
+    - bitrate smoother param
+• ig android feed add yours
+    - search debounce ms
+    - search min query
+    - creation search enabled
+• ig android reels reuse text
+    - use accent color on action button
+• ig avatars android profile
+    - is coin flip pose customization enabled
+• msys api instrumentation ig
+    - ig onetraceid callback sampling rate
+• ig android reels rixu
+    - enable risu tile animation
+    - risu tile scale factor
+    - risu tile animation time ms
+• ig android video reels surfaceview
+    - use surfaceview on clips viewer saved
+    - use surfaceview on clips viewer profile
+• ig android browser lite
+    - is redirect to external browser enabled
+• ig vc rsys overlayconfig hybridvideoencoderconfig
+    - optimize sw only mode
+• ig android systemic navigation latency logger
+    - enable gesture detector
+
+-----------------------------------
+Removed
+
+• ig android audio app start logging
+• ig android maps show subcategory pills
+• ig android story sticker ids fix
+• fx ig4a sac linking device id client launcher
+• ig android push token security change
+• ig android bug report screen record
+• igns android new aggregated follow rollup
+• ig android cfc active now in stories
+• ig android bandwidth estimation
+• ig shopping red sale price
+• ig android swipe navigation lifecycle fix
+• ig shop tab q4 2020 layout changes
+• ig android launcher cancel preload289.0.0.0.37
+Added
+
+• ig android clips viewer creator voice
+• ig bloks android visibility extension
+
+-----------------------------------
+Updated
+
+• ig android 2022 h1 modernization usl migration set 2
+    - instagram ad viewability usl enabled
+
+-----------------------------------
+Removed
+
+• ig camera android reels remove text bubble styling
+• ig camera android clips timeline split
+• ig camera android creative tool platform
+
 298.0.0.0.2
 Added
 
