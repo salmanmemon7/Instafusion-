@@ -1,3 +1,340 @@
+290.0.0.0.61
+Added
+
+• ig hammerhead integrations
+• p92 new posts pill
+
+-----------------------------------
+Updated
+
+• ig camera android warm camera
+    - is enabled
+• ig camera android optimize thread creation
+    - use ig executor service factory
+• ig android mvvm migration ad tools
+    - is past ads enabled
+• ig android ampersand
+    - group profile activation enabled
+• ig vc rsys overlayconfig autorejoinconfig
+    - connection dropped enabled
+    - tx ack timedout enabled
+
+-----------------------------------
+Removed
+
+• ig camera android disable double tap on tappable effects
+• ig camera reliability memory projects 2022 h2 launcher
+• ig camera reliability memory projects 2023 h1 launcher
+• ig android memory cache
+290.0.0.0.71
+Added
+
+• fx pf rtdd ig userid
+• ig4a cuif v2
+• ig android cache efficiency logging fix launcher
+• ig android personalize main tab camera format bar
+
+-----------------------------------
+Updated
+
+• p92 fediverse android
+    - onboarding privacy option message
+• ig camera android downscale blur icons
+    - device seg version
+    - max device segment
+• ig reels monitization media interactivity
+    - enable ads gesture logging for long press end
+• ig android audio browser save tabs
+    - original audio first
+• ig android afi triggered iaa
+    - should prevent multiple visible triggered insertion items
+    - should allow dwell afi on multi ads eligible seed ad
+    - should allow launching iaa on toggle demand seed ad
+    - should allow launching iaa on non toggle demand seed ad
+• p92 sharing config
+    - feed to stories photo background
+    - feed to ig feed deeplink enabled
+• ig boost licensed music replacement in video ads
+    - android show audio attribution
+    - ios show audio attribution
+• ig reels android mvvm sharesheet architecture
+    - is cover photo enabled
+• ig reels overlay ads publishers
+    - android payout subtype is ioa
+• igd labyrinth ui
+    - android restore enabled
+    - android settings enabled
+• ig vc rsys overlayconfig gccnetworkcontrollerconfig
+    - act on slow feedback
+• igd reply with avatar
+    - is enabled in armadillo
+• ig sn live streaming
+    - lam max devices
+• ig armadillo features android ios initial test
+    - prevent remove device from wa
+• mwb enforcement education notice android
+    - bottom sheet enabled
+• ig video viewability 2nd channel
+    - is use alt timestamps enabled
+• ig android reels ccp data
+    - upsell timing variant
+    - disable ccp upsell
+• ig android gesture navigation validator
+    - return fling handled
+• ig vc rsys overlayconfig tieredbitrateallocationconfig
+    - min time on tier ms
+    - padding to next tier
+
+-----------------------------------
+Removed
+
+• ig vc rsys overlayconfig ardeliveryconfig
+• ig vc rsys overlayconfig rsysvideosubscriptionsconfig
+290.0.0.0.53
+Added
+
+• ig4a e2ee notif sproc duplication fix
+
+-----------------------------------
+Updated
+
+• ig settings 2
+    - archiving and downloading settings enabled
+    - tags and mentions settings enabled
+• ig android avatars in notes
+    - is post avatar creation tooltip enabled
+• ig android profile http streaming
+    - ig android grid streaming rollout
+    - use graphql for profile info enable defer
+• ig android reels rixu
+    - rifu only concurrent autoplay on wifi
+    - risu only concurrent autoplay on wifi
+    - rifu concurrent autoplay processor cores threshold
+    - risu concurrent autoplay ram threshold
+    - risu concurrent autoplay processor cores threshold
+    - rifu concurrent autoplay ram threshold
+• igd android tangerine
+    - voice enabled
+• ig android rti request stream
+    - execute missed timers
+
+-----------------------------------
+Removed
+
+• ig vc rsys overlayconfig effectminigalleryconfig
+290.0.0.0.57
+Added
+
+• ig camera ar ads add client token to share event
+• ig android creation asset picker
+• ig android social context in feed 2
+
+-----------------------------------
+Updated
+
+• ig android push notif to thread view improvements
+    - open modal fragment for warm hot startup types
+    - open modal fragment for all startup types
+    - avoid init main activity oncreate
+• ig mwb invite model
+    - enable nux android
+    - enable nux ios
+    - is invite model enabled ios v2
+• iab link history ig android
+    - sense of place loading
+    - opt in prompt organic only
+
+-----------------------------------
+Removed
+
+• ig incentive chest icon swap
+290.0.0.0.25
+Added
+
+• p92 gradient update android
+• ig android foldable direct media viewer
+• p92 fediverse android
+• igd direct store improvements
+• ig android audio expression upsell
+• igd android cache creator info
+• ig voltron
+• ig android tall reels perf
+• ig android feed creation multiselect enabled
+• ig android background detector update launcher
+• ig stories sticker tray redesign
+
+-----------------------------------
+Updated
+
+• igd channels sharing forwarding messages
+    - can share voice messages to story
+• ig android reels template upsell on exit camera
+    - number of segment
+    - speed threshold
+• ig android webview file upload cancellation signal
+    - is use retry inflate enabled
+• igd android tltv improvements
+    - execute navigation tracker logic on idle thread
+• ig direct armadillo content sharing xma send
+    - is external link composer preview enabled
+• ig android ads reels redesign
+    - is redesign flow enabled
+    - is prefetch enabled
+    - is flash cache enabled
+    - is prefetch disabled
+    - is flash cache disabled
+• ig events on stories
+    - can unset reminder from organic sticker cta
+
+-----------------------------------
+Removed
+
+• ig android feed carousel creation updates
+• ig android casual games
+290.0.0.0.12
+Added
+
+• ig android launcher background prefetch fix rtp call on foreground
+• ig android camera platform currentcameradestination fix
+• ig camera calendar anr fix launcher
+• ig avatars android aapp deprecation
+• ig camera android sla for drafts
+• ig reels android suggested audio toast preload audio
+• ig android stories layer editor
+• ig android reels deeplink fc fix
+• ig notification broadcast channel creation dedupe
+• ig events
+• ig is employee or test user
+• ig android mvvm migration ad tools
+• ig stories island android
+• ig subscription pricing
+• ig android direct text change linkify fix killswitch
+
+-----------------------------------
+Updated
+
+• ig camera android draft misc
+    - force regenerate stitching params
+• ig odml story prefetch
+    - should invoke odml in prefetcher
+    - should prevent odml if inference is ongoing
+• igd labyrinth ui
+    - db drop fix enabled
+• ig android prefetch ui graph ranker config
+    - error idle queue empty requests sampling
+• ig android autofill experiments
+    - upper funnel logging enabled
+• igd android p2tv improvements
+    - non contiguous
+• ig android photo production modernization
+    - carousel flow music button enabled
+• ig android kill publisher
+    - app start delay share types
+• ig vc rsys overlayconfig videopacketretransmissionconfig
+    - enabled
+• ig explore android
+    - disable early social proof view inflation
+• ig broadcast channel fbidv2
+    - is welcome video consumption enabled
+    - is welcome video creation enabled
+    - pip appearance limit
+    - pip playback time per thread
+    - is ios bc join to interact enabled
+    - can change channel photo
+• ig android ampersand
+    - create group in profile tab enabled
+• ig android creator tools
+    - ig4a reels ae auto eq is on
+    - ig4a reels ae voice leveler is on
+    - ig4a reels ae noise remover is on
+• igd armadillo commands
+    - ios silen enabled
+    - android silen enabled
+    - android silent enabled
+    - ios silent enabled
+
+-----------------------------------
+Removed
+
+• ig android events
+• ig profile multi format grid
+• ig android gallery grid selection ease
+• ig interactions author initiated sticker
+• ig camera android quickcapture stop framehandlerthread fix
+• ig vc rsys overlayconfig simulcastoversignalingconfig
+290.0.0.0.1
+Added
+
+• ig android showreel genie
+• ig client search account hcm
+• xme meta gallery ig constants
+• ig vc rsys overlayconfig batterystatsupdateconfig
+• ig android avatars vpr in quick reactions
+• ig ata
+• p92 reposts
+• ig camera android add clips button move
+
+-----------------------------------
+Updated
+
+• ig android clips viewer creator voice
+    - polish enabled
+• ig4a birthday opt in
+    - confetti on bottom sheet enabled
+    - confetti on dm cf hub enabled
+    - confetti on dm thread list enabled
+    - confetti on profile enabled
+    - confetti on search result enabled
+    - confetti on story pog enabled
+• igd channels sharing forwarding messages
+    - share message skip tooltip
+    - can forward text
+    - can forward photos videos
+    - can forward reels
+    - can forward polls
+    - can forward links
+    - can forward audio
+    - can share audio to story
+• ig intent aware ads reels
+    - max num iaa in feed
+• ig vc rsys overlayconfig bwelowbandwidthmodeconfig
+    - cwnd drop factor
+    - oscillation factor
+    - plr low
+    - plr high
+• ig android retryable configure error
+    - is triggered by backend enabled
+• ig odml story prefetch
+    - use immediate signals
+    - use server feature source
+    - use ads feature source
+    - use system feature source
+• ig camera android reels stacked timeline add things
+    - add text sticker end at clip end
+• igd android tltv improvements
+    - use unfiltered message for tltv finish check
+• ig android direct msys optimization
+    - is active user msys adaptive bootstrap
+• igd avatar stickers tray tab
+    - default to avatar tab
+• ig android stories last frame check
+    - is pt distance enabled
+• ig armadillo franking
+    - should drop on invalid tags
+    - should drop on missing tags
+
+-----------------------------------
+Removed
+
+• ig4a reels video consumption aspect ratio fix
+• ig android promote enable ctwa detailed targeting launcher
+• ig android 2022 h1 modernization boost usl migration 1
+• ig android stories prefetch on good network on peak qe
+• prevent network task pileup
+• ig android lead ads form list edit
+• ig android clips video sticker
+
+
 289.0.0.0.37
 Added
 
