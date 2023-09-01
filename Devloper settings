@@ -1,3 +1,290 @@
+300.0.0.0.3
+Added
+
+• p92 settings follow invite targets
+• ig auto capture integration
+• ig android direct instamadillo optimizations
+• ig self view tips
+
+-----------------------------------
+Updated
+
+• xe growth sso unblock sac config
+    - enable see all accounts bug fix android
+• ig camera android multiclip redirect to stacked timeline
+    - enable soundsync redirect
+    - enable camera redirect
+• ig4a caa login home caching test
+    - entrypoints v4 killswitched
+    - entrypoints ttl killswitched
+• ig android genai magic mod
+    - is story post internal only
+• fx growth ig uul mc
+    - android show ig logout upsell
+    - android use new entrypoint logout upsell
+• ig android reels consumption v1
+    - reply bar enabled
+• ig android channels inbox discovery
+    - invitations enabled
+    - disable messages tab badging
+• nme ig dev
+    - enable ig4a legacy bb profile pic editing message
+    - enable ig search boost disclosure
+    - enable ios leagacy bb profilepic integrity
+• ig events
+    - is add to calendar enabled for ios
+    - is add to calendar enabled for android
+• igd channels social context
+    - skip mimicry upsell intent qualification
+• ig armadillo express
+    - enable xplat reverb
+• ig feed emphasized social ufi
+    - is overlay carousel page indicator hw layer enabled
+• ig android browser lite
+    - is bh safe browsing all traffic enabled
+• ig android ad basic ads gating
+    - disable ad invalidation in story
+    - disable ad invalidation in feed
+    - disable ad invalidation in feed iaa
+    - disable ad invalidation in profile
+    - disable ad invalidation in explore grid
+    - disable ad invalidation in explore
+    - disable ad invalidation in search feed
+    - disable ad invalidation in reels
+    - disable ad invalidation in search grid
+    - disable ad cache stories carry over
+    - disable ad cache explore grid home
+    - disable ad cache flash feed
+• ig vc rsys overlayconfig weakconnectionconfig
+    - min gap count drop audio
+• ig android reels ccp data
+    - upsell cooldown on last toggle days
+• ig android feed scroll away nav
+    - is extended scrollaway nav enabled for feed
+• ig vc rsys overlayconfig congestionpushbackwindowconfig
+    - enable ml congestion ceiling
+    - ml congestion encoding ratio ceiling
+    - ml congestion hold time ms
+
+-----------------------------------
+Removed
+
+• ig actionable insights reels self view
+• ig android channels in sharesheet
+• ig android gif comment
+• ig android gif images
+• ig vc rsys overlayconfig neteqandfecprocessingfixconfig
+• ig ads with product tags
+• ig android lead ads guidance launcher
+• ig vc rsys overlayconfig timestampscaleroverflowkillswitchconfig
+299.0.0.0.106
+Added
+
+• ig qp notif prompt v2
+• xe growth sso unblock sac config
+• ig vc rsys overlayconfig enablee2eefornonmandatedinlatestconfig
+• ig android mvvm migration promote preview
+• ig camera android stability h2 2023 launcher
+• xac sunsetting for ig v1
+• ig android flytrap screen recording small res
+
+-----------------------------------
+Updated
+
+• ig ads profile and browse
+    - tap to profile and browse enabled
+• fx growth ig uul mc
+    - android use mna ig fb feed crossposting upsell
+• ig stories ai stickers
+    - suggested prompts enabled
+• ig android audio expression upsell
+    - post cap enabled
+• ig screen time
+    - new scheduler enabled
+    - android graceful foreground
+    - schedule on time in app init
+    - enforce max heartbeat gap
+• igns ig4a push notification logging device level
+    - should not log single intent multiple times
+    - should force recreate pending intent
+• ig camera android vsr super res filter stories launcher
+    - use fast super res
+• ig fixie config
+    - enable reduced qpl sampling
+    - qpl presample rate fncr direct
+• ig events
+    - location fix no picker x out
+    - location fix permission style
+    - is discovery screen migration enabled for ios
+    - is discovery screen migration enabled for android
+    - is discovery screen ptr enabled for ios
+    - is discovery screen ptr enabled for android
+    - is new sharesheet enabled for android
+    - is new invitesheet enabled for android
+• ig android comments craft h2 2023
+    - enable comments loading shimmer
+• igd instamadillo dm fbid
+    - should roll back dm
+• ig armadillo express
+    - receiver fetch debug ui enabled
+• ig android foldable layout fix user id based
+    - foldable album edit fragment rebinding views
+    - foldable carousel indicator dynamic switching
+• ig vc rsys overlayconfig tslogregistryconfig
+    - enabled for connection tslog open calls
+• p92 first post
+    - is post label android enabled
+• ig android browser lite
+    - click id pool ig4a
+• ig intent aware ads hscroll
+    - should use individual ad chains
+• ig camera android qcc modularization
+    - config
+
+-----------------------------------
+Removed
+
+• ig android reels greenscreen viewer cta
+• igd msys commit callback scheduling
+• ig android feed captions
+299.0.0.0.96
+Added
+
+• igd locked chats
+• ig media infra memory leaks h2 2023
+• ig4a buy with prime
+• ig android sticker browser read endpoint capacity improvement
+• ig android feed video prefetching
+• ig android story ads carousel end scene
+• ig share sheet add collab string
+• p92 android media viewer config
+• p92 first post
+• ig android stories ads social context
+
+-----------------------------------
+Updated
+
+• xstack overlayconfig packetpairbwev3config
+    - bw cap enable
+    - bw cap window sec
+    - bw cap max delay ms
+    - bw cap min bitrate kbps
+    - bw cap low bitrate percentile
+    - bw cap low bitrate pct
+• ig android post editing flow updates
+    - updated next button enabled
+• igd android notifications consolidation
+    - api enabled for sync path
+• ig android genai magic mod
+    - is bundle tool
+    - is single tool
+• p92 new posts pill
+    - use high contrast
+• ig direct ai agents
+    - eligibility
+• ig vc rsys overlayconfig bwecongestioncharacterizationconfig
+    - disable compute softmax on model outputs
+• ig android auto media grouping launcher
+    - v2 clustering enabled
+• ig android async app init
+    - enable broadcast replay
+    - improve intent peeker
+• ig android artist reel pinning
+    - is oa consumption enabled
+    - is oa creation enabled
+• ig vc rsys overlayconfig avatarsconfig
+    - restore last camera setting on exit
+• ig quiet mode
+    - night time start time
+    - night time end time
+• ig camera android camera logging h2
+    - is media capture activity session fixed enabled
+• ig reels android sticker anything
+    - is nux enabled
+• ig android boost flow language evolution
+    - language evolution budget update is enabled
+    - language evolution audience update is enabled
+• ig broadcast channel fbidv2
+    - should skip thread fetch
+
+-----------------------------------
+Removed
+
+• ig android comments gnv mismatch fix
+• ig android clips remove caption in comment sheet
+• ig android karaoke realtime captions
+• ig android enable remix layout for photo remixing
+• ig android igl activation sparksl runtime
+• ig android comment caption header size fix
+299.0.0.0.84
+Updated
+
+• igd instamadillo dm media android
+    - stacks enabled
+• ig android direct lss
+    - is instamadillo log enabled
+
+-----------------------------------
+299.0.0.0.78
+Added
+
+• ig android reels duration
+• ig android launcher improve feed seen state accuracy
+• ig camera android timeline rtl locale fix
+• ig android igl activation sparksl rollout
+• ig feed cta highlight time personalization
+• ig android prodx ui ux
+
+-----------------------------------
+Updated
+
+• xstack overlayconfig packetpairbwev3config
+    - min bitrate increase in rc mode bps
+    - min bitrate for pp mode kbps
+    - max distance between single packet frames
+• ig automatelogging config
+    - feedsponsor label al onboarding
+• ig client exp one endpoint per field
+    - ios profile picture enabled
+    - android username enabled
+    - android fulllname enabled
+• igd android gen ai sharing
+    - can share ai bot message to story
+• ig android delivery profile
+    - should show su in profile highlights
+• ig camera android reels gallery audio
+    - is trending enabled
+• ig camera android flytrap report on delete launcher
+    - snackbar delay time ms
+• ig vc rsys overlayconfig videoencoderselectorconfig
+    - max num overuse detection
+• ig android fix rug pull
+    - track feed ttnc
+    - track feed ttnc threshold
+    - track feed ttnc count
+• ig android audience controls
+    - is prepopulation enabled
+• igd instamadillo dm fbid
+    - show pending feature info
+• fx ig android switcher wave 2 3 fdid
+    - use wave 3 native switcher
+• ig explore android
+    - disable rug pull android
+    - add loading indicator to rugpull
+    - enable default long press timeout
+• ig vc rsys overlayconfig videopsnrmetricconfig
+    - enabled av1 encoding psnr
+• ig android stories interactions draft messages
+    - show draft message in reply bar
+
+-----------------------------------
+Removed
+
+• ig android lead ads render in bottom sheet
+• ig android capped media retry policy
+• ig android nav latency logger qpl instance
+• ig android keep feed when phone goes sleep
+
 299.0.0.0.69
 Updated
 
