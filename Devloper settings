@@ -1,3 +1,54 @@
+300.0.0.0.44
+Updated
+
+• ig android launcher request cache layer no context switch
+    - main feed request skip cache
+
+-----------------------------------
+300.0.0.0.38
+Added
+
+• buy with prime iab
+• ig bm android message screen refresh launcher
+• ig camera android bottomsheet actionbar fix
+• ig android launcher explore background start prefetch
+• ig reels android midcard audio index fix
+
+-----------------------------------
+Updated
+
+• ig camera android creation logging session
+    - enable session init
+• ig android post editing flow updates
+    - right aligned toolbar enabled
+    - edit screen title enabled
+    - updated x button enabled
+    - updated edit accept cancel buttons enabled
+• ig camera android reels gallery zoom
+    - is enabled
+    - max span
+    - min span
+• p92 voice posts
+    - is consumption enabled
+    - is silent playback enabled
+• ig android reels delivery launcher
+    - should enable adjacent check
+• ig android stories delivery improvements
+    - use prefetcher for cache
+• ig android ad basic ads gating
+    - disable ad cache stories persisted ad pool
+• ig intent aware ads hscroll
+    - rifu multi ads should use leaner overlay
+    - rifu multi ads should use larger cards
+    - rifu multi ads use long press for ads options menu
+    - should use contextual cta default color
+
+-----------------------------------
+Removed
+
+• ig camera android drafts flow consolidation
+• ig android reels quickshare sheet
+• ig android promote onboarding state machine m0 launcher
 300.0.0.0.27
 Added
 
