@@ -1,3 +1,13 @@
+300.0.0.0.60
+Updated
+
+• ig vc rsys overlayconfig sendsidebweextconfig
+    - disable inflection point check
+• ig vc rsys overlayconfig precallprobingconfig
+    - only exchange downlink result
+
+-----------------------------------
+
 300.0.0.0.44
 Updated
 
