@@ -1,3 +1,68 @@
+
+300.0.0.0.94
+Added
+
+• ig custom cta enable hot br
+• ig ctd profile cta improvement
+• ig android wearable version enforcement
+• ig android startup marker actions
+• ig android story server ptv
+• ig4a boost stories with mentions launcher
+• b4a notification tray time to live
+• ig android direct reshare notifs
+• ig stories island in header
+• ig android creation persist render manager
+
+-----------------------------------
+Updated
+
+• ig android realtime xplat mqtt
+    - keepalive seconds
+    - keepalive bg seconds
+    - keepalive timeout seconds
+    - publish timeout seconds
+    - preemptive publish timeout seconds
+    - personalization enabled
+    - connect personalization enabled
+    - connect timeout seconds
+• ig android cxp notice gql
+    - call notice gpl from ig reels surface cooldown hours
+    - call notice gpl from ig feed composer surface cooldown hours
+    - call notice gpl from ig stories composer surface cooldown hours
+    - call notice gpl from ig feed share later surface cooldown hours
+    - ig panavision upsell cache duration hours
+    - ig panavision upsell cooldown hours
+    - write server counts stories feed
+    - write server counts reels
+• ig android feed litho adoption
+    - reset window in bind view
+    - reset window threshold
+    - only release not attached component trees
+    - litho pre fetch count
+    - force litho in feed item adapter migration
+• ig services appointment booking android
+    - deprecation enabled
+• p92 feedback hub android
+    - post preview enabled
+• ig reels android sticker anything
+    - aspect ratio check enabled
+• ig vc rsys overlayconfig weakconnectionconfig
+    - drop audio on weak every k
+• ig android reels acr browser
+    - non acp client debug
+    - is feedback menu enabled
+
+-----------------------------------
+Removed
+
+• ig android stories captions background
+• ig android reels share sheet preview
+• ig reels android show save audio suggestion
+• ig stories fundraiser view payment address
+• ig studio mutual follower audience
+• ig android direct audio clips
+• ig android igds illustration override enabled killswitch
+
 300.0.0.0.84
 Added
 
