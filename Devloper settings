@@ -1,4 +1,137 @@
+300.0.0.0.110
+Added
 
+• ig subscriptions viewer side holdout
+• ig notes xma redesign
+• ig cs ufc mobile launcher
+• ig android story mention reshare copy update
+• ig sharing anr fixes h2 2023
+• ig live android startup countdown
+• ig android pac ad social feedback aggregation
+• ig4a rowshare reels
+• ig android sharesheet inform module
+• ig armadillo express sharing
+• ig empty self following ci upsell
+• ig android comments op badge launcher
+• ig4a boost loading screen shimmer
+
+-----------------------------------
+Updated
+
+• ig client exp one endpoint per field
+    - ios username enabled
+    - ios fullname enabled
+    - ios fb account link enabled
+    - android fb account link enabled
+• android igd search h2 2023
+    - enable igd search story ring bc
+• ig android direct infra
+    - always scroll on thread update
+• ig camera android vsr super res filter stories launcher
+    - preprocess before filters
+• ig android async app init
+    - defer current user provider
+    - defer androidx provider
+    - defer async family apps user values provider
+    - defer async phone id provider
+    - defer logged in user content provider
+    - defer fdid lite provider
+• igd channels social context
+    - show jcs social context
+    - show join flow social context
+    - show pinned channel social context
+    - max mimicry upsell impression limit
+• ig android artist reel pinning
+    - is music artist
+• ig vc rsys overlayconfig statsengineconfig
+    - enable rtp sender duplication timing
+• ig vc rsys overlayconfig unifiednrconfig
+    - enable rtp sender duplication timing
+• igd lss improvements
+    - should preload audio view type
+• ig vc rsys overlayconfig rsysgeneralizedbweconfig
+    - webrtc latest concerto bwe enabled
+• ig stories multiple audience lists
+    - use server list name attribution
+• ig android asq reels
+    - should enable enlarged preview
+• ig reels android sticker anything
+    - sticker min aspect ratio
+    - sticker max aspect ratio
+• ig android navigation chain
+    - get current tab from navigation tracker
+• ig broadcast channel fbidv2
+    - should show story ring
+    - should dedupe thread fetch
+• ig android ttnc h2 2023
+    - enable optional flash feed cache
+• ig android gesture navigation validator
+    - trace gesture session
+    - use dsp point context provider
+• ig android feed prefetch background cold start
+    - disable on peak time
+• rp ig end call feedback
+    - ig4a use rsys rating shown api
+• ig camera android timeline ar effects button
+    - swap action bar order
+• ig android feed scroll away nav
+    - extended scrollaway gradient alpha
+    - extended scrollaway gradient alpha reels
+• ig android ads reels redesign
+    - is prefetch enabled
+    - is prefetch from feed disabled
+    - is combined flow enabled for prefetch only
+• ig android feed prefetch
+
+- enable pass prefetch response for cold start
+• ig litho core changes
+    - usecached lru cache size
+
+-----------------------------------
+Removed
+
+• ig vc rsys overlayconfig signalinglowbandwidthretriesoptimizationconfig
+• ig vc rsys overlayconfig sradmiosnotifyconfig
+
+300.0.0.0.99
+Added
+
+• igd android raven as permanent media
+
+-----------------------------------
+Updated
+
+• ig vc rsys overlayconfig openh264unifiedscalerconfig
+    - max framerate
+    - max framerate ss
+    - bitrate smoother
+    - bitrate smoother param
+    - re init encoder upon resize
+    - release encoder before re init
+• ig disable reel chaining from stories
+    - is chaining with friction enabled
+• ig vc rsys overlayconfig videotoolboxunifiedscalerconfig
+    - max framerate
+    - max framerate ss
+    - bitrate smoother
+    - bitrate smoother param
+    - re init encoder upon resize
+    - release encoder before re init
+• ig vc rsys overlayconfig unifiednrconfig
+    - enable weak connection mode
+    - weak connection mode change up per gap increment ms
+    - weak connection mode change down per gap increment ms
+    - weak connection enter gap ms 
+    - weak connection exit ms 
+    - weak connection enter gap ms
+    - weak connection exit ms
+• ig vc rsys overlayconfig rdostransportconfig
+    - allocate everything delay ms
+
+-----------------------------------
+Removed
+
+• ig stories netego acr design fix
 300.0.0.0.94
 Added
 
