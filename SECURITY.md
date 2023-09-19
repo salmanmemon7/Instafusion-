@@ -1,16 +1,13 @@
 # Security Policy
 
 ## Supported Versions
+Arm64v8a
+Android 9+
+Api Level 29 Up Needed 
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+| Version | Supported   
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+All Version are Supported 
 
 ## Reporting a Vulnerability
 
