@@ -1,3 +1,1 @@
-📣 Important Update: Instazzers Community, we've got exciting news! Thanks to the valuable suggestion from @danii5*, we've now created an Instagram version with Developer settings pre-enabled. That means, when you install it, there's no need to manually enable each command; it's already good to go. We've established two Instagram accounts under the name "Instazzers," one using* @danii5*'s backup file and the other from* @panagiotisbeth*. We are in the process of fine-tuning these accounts for improved stability. Currently, we're actively posting in the* @instazzersfeedback channel, and we invite you to join us there and share your feedback. If everything proceeds as planned, we'll bring this same enhancement to the standard Instagram experience and keep you posted.
-
-Please remember: Do not share content from this platform without permission.
+moamed 
