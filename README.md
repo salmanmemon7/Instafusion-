@@ -1,11 +1,11 @@
-# Instazzers
-Instazzers is a project made to provide latest Instagram alpha and Threads APKs with Developer Options enabled.
+# 𝕏-Gram
+𝕏-Gram is a project made to provide latest Instagram alpha and Threads APKs with Developer Options enabled.
 
 ## Telegram Group
 You can join our Telegram group to get support and download APKs from there: [Telegram group](https://t.me/+xkW2Uglf4ls5Nzc1)
 
 ## Download APKs
-You can get the latest APKs [from GitHub releases](https://github.com/salmanmemon7/Instazzers) in this repository.
+You can get the latest APKs [from GitHub releases](https://github.com/salmanmemon7/𝕏-Gram) in this repository.
 
 ## Changelogs
 You can view the changelogs of developer options flags using [this Telegram bot](https://t.me/ChangelogForIG_Bot)
