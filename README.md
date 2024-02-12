@@ -1,4 +1,4 @@
-# 𝕏-Gram
+# Instafusion 
 𝕏-Gram is a project made to provide latest Instagram alpha and Threads APKs with Developer Options enabled.
 
 ## Telegram Group
