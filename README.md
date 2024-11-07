@@ -2,7 +2,7 @@
  is a project made to provide latest Instagram alpha and Threads APKs with Developer Options enabled.
 
 ## Telegram Group
-You can join our Telegram group to get support and download APKs from there: [Telegram group](https://t.me/+xkW2Uglf4ls5Nzc1)
+You can join our Telegram group to get support and download APKs from there: [Telegram group](https://t.me/instafusions)
 
 ## Download APKs
 You can get the latest APKs [from GitHub releases](https://github.com/salmanmemon7/instafuion) in this repository.
